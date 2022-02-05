@@ -1,6 +1,15 @@
 Colors:
 
 background: #fff - #1a1a1d
-Orange : #bd5d38 - #4056a1
+Orange : #bd5d38 - #4056a1 - 
 Gray in Name: #343a40 - #c5cbe3
 body color: #6c757d - #a4b3bf
+
+
+New:
+#1a1a1d = background = #EFDAD7
+
+
+smaller ones: 
+New: #5590ed
+old: #4056a1
